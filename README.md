@@ -1,7 +1,5 @@
 ### Hi I am Ahmed 👋
 
-<!--
-
 I am learning javascript and I am interested in joining hackathons and freelancing.
 
 
@@ -13,4 +11,6 @@ I am learning javascript and I am interested in joining hackathons and freelanci
 - 📫 How to reach me: https://twitter.com/ahmedgagan11
 - 😄 Pronouns: programmer, he
 - ⚡ Fun fact: python is for kids
+
+<!--
 -->
