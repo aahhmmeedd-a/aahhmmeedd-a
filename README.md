@@ -56,7 +56,6 @@
   <a href="https://twitter.com/ahmedgagan11"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://blog.ahmed-g.me/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://dev.to/aahhmmeedda"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://discord.com/users/691360911440609290"><img src="https://dcbadge.vercel.app/api/shield/691360911440609290?compact=true&theme=clean"></a>
   
 </p>
 <p align="center">
@@ -79,29 +78,15 @@
 <br />
 <br />
 
-  <summary>⚡ Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-2. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-3. ❗️ Opened issue [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-4. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
-5. 💪 Opened PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
-<!--END_SECTION:activity-->
-
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_cettsM08XE"><img width="140px" src="https://i.ytimg.com/vi/_cettsM08XE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_cettsM08XE">How to set up your own website analytics with Umami? | Open Source | Self Hosted</a><br/>Apr 25, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=dl40SEySJ1s"><img width="140px" src="https://i.ytimg.com/vi/dl40SEySJ1s/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=dl40SEySJ1s">How to make a cool button hover and click effect in CSS in less than a minute! #Shorts</a><br/>Apr 20, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=cM0pA50R20M"><img width="140px" src="https://i.ytimg.com/vi/cM0pA50R20M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cM0pA50R20M">How to use Mongoose with Next.js for MongoDB | Explained with simple project</a><br/>Apr 17, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=QQWgN0_gUxI"><img width="140px" src="https://i.ytimg.com/vi/QQWgN0_gUxI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QQWgN0_gUxI">Sort imports using Prettier in a JavaScript Project inside VS Code!</a><br/>Mar 21, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JjhnwFBdgNc"><img width="140px" src="https://i.ytimg.com/vi/JjhnwFBdgNc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JjhnwFBdgNc">How to convert a normal React form to use React Hook Form</a><br/>Nov 13, 2021</td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=LiFNYSmJOaI"><img width="140px" src="https://i.ytimg.com/vi/LiFNYSmJOaI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LiFNYSmJOaI">How to create a VUE js project in just 5 minutes!
+</a><br/>Jun 12, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=q6_YEna0PVQ"><img width="140px" src="https://i.ytimg.com/vi/q6_YEna0PVQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q6_YEna0PVQ">Master React Native useState hooks by creating a DARK MODE LIGHT MODE APP
+</a><br/>Jun 19, 2022</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
@@ -109,7 +94,7 @@
 ## 👀 My Latest Blog Posts 
    
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
+<!--<p align="left">
 <a href="https://blog.usman-s.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656647378837/zTE_GI6xd.png" alt="🎉 Presenting Memoriez - A quick & easy journal" width="250px" align="left" /></a>
 <a href="https://blog.usman-s.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><strong>🎉 Presenting Memoriez - A quick & easy journal</strong></a>
 <div><strong>1 July 2022</strong> | <strong>Updated: 1 July 2022</strong></div>
@@ -143,15 +128,15 @@ This time building an app was a weird and funny experience at the same t... </p>
 <a href="https://blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><strong>🗨️ Build a WhatsApp API using Node & Express</strong></a>
 <div><strong>8 Jan 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
 <br/> Today, you will be able to build a WhatsApp REST API using Node.js and Express using Puppeteer and web scraping.
-Although we won't be doing any web scraping, we will use a library that does everything for you already and makes it very easy to work wi... </p> <br/> <br/>
+Although we won't be doing any web scraping, we will use a library that does everything for you already and makes it very easy to work wi... </p> <br/> <br/>-->
 <!-- HASHNODE_BLOG:END -->
 
 
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=aahhmmeedd-a&theme=github" alt="max-programming" /></p> 
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=aahhmmeedd-a&theme=github" alt="ahmed-gagan" /></p> 
 
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhmmeedd-a&show_icons=true&theme=react&count_private=true" alt="max-programming" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhmmeedd-a&show_icons=true&theme=react&count_private=true" alt="ahmed-gagan" /></p>
 
 ## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=aahhmmeedd-a&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
