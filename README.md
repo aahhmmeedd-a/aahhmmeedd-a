@@ -134,7 +134,9 @@ Although we won't be doing any web scraping, we will use a library that does eve
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=adgan11&theme=github" alt="ahmed-gagan" /></p>
 
 # See a snake eat my contributions 👀
+ <br />
 ![snake gif](https://github.com/adgan11/adgan11/blob/output/github-contribution-grid-snake.svg)
+ <br />
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adgan11&show_icons=true&theme=react&count_private=true" alt="ahmed-gagan" /></p>
