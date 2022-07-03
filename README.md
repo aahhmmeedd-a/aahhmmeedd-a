@@ -12,7 +12,7 @@
 
 - 🌐 My website: [ahmedgagan.codes](https://ahmedgagan.codes)
 
-- 👨‍💻 All of my projects are available at [github.com/aahhmmeedd-a](https://github.com/aahhmmeedd-a)
+- 👨‍💻 All of my projects are available at [github.com/adgan11](https://github.com/aahhmmeedd-a)
 
 - 📝 I write articles on [blog.ahmed-g.me/](https://blog.ahmed-g.me/)
 
@@ -73,7 +73,7 @@
   📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/IMovie-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
 </p>
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/aahhmmeedd-a/count.svg" />
+  <img src="https://profile-counter.glitch.me/adgan11/count.svg" />
 </p>
 <br />
 <br />
@@ -90,9 +90,7 @@
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
-   
-## 👀 My Latest Blog Posts 
-   
+      
 <!-- HASHNODE_BLOG:START -->
 <!--<p align="left">
 <a href="https://blog.usman-s.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656647378837/zTE_GI6xd.png" alt="🎉 Presenting Memoriez - A quick & easy journal" width="250px" align="left" /></a>
@@ -133,12 +131,12 @@ Although we won't be doing any web scraping, we will use a library that does eve
 
 
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=aahhmmeedd-a&theme=github" alt="ahmed-gagan" /></p>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=adgan11&theme=github" alt="ahmed-gagan" /></p>
 
 ![snake gif](https://github.com/adgan11/adgan11/blob/output/github-contribution-grid-snake.gif)
 
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhmmeedd-a&show_icons=true&theme=react&count_private=true" alt="ahmed-gagan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adgan11&show_icons=true&theme=react&count_private=true" alt="ahmed-gagan" /></p>
 
 ## Top Languages
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=aahhmmeedd-a&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=adgan11&layout=compact&hide=html&theme=react" alt="adgan11" /></p> 
