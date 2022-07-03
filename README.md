@@ -133,7 +133,9 @@ Although we won't be doing any web scraping, we will use a library that does eve
 
 
 ## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=aahhmmeedd-a&theme=github" alt="ahmed-gagan" /></p> 
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=aahhmmeedd-a&theme=github" alt="ahmed-gagan" /></p>
+
+![snake gif](https://github.com/adgan11/adgan11/blob/output/github-contribution-grid-snake.gif)
 
 ## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhmmeedd-a&show_icons=true&theme=react&count_private=true" alt="ahmed-gagan" /></p>
