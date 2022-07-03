@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! My name is Ahmed</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">
-  A random 14 y/o programmer who likes to make games, websites and apps. I tweet about my programming journey. I love dark themes!
+  A random 14 y/o programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
 </h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
@@ -72,6 +72,7 @@
   <br>
   📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/IMovie-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
 </p>
+<h2 align="center">Profile Visits</h2>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/adgan11/count.svg" />
 </p>
