@@ -7,9 +7,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
 
-- 🔭 I’m currently working on **Learning development**
+- 🔭 I’m currently working on **Learning web development**
 
-- 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
+- 🌱 I’m currently learning **React.js, Vue.js, Backend with PHP**
 
 - 🌐 My website: [ahmedgagan.codes](https://ahmedgagan.codes)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **agagan057@gmail.com**
 
-- ⚡ Fun fact **I like coffee. And some fast food! 😉**
+- ⚡ Fun fact **I like coffee. And JavaScript! 😉**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
