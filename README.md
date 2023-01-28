@@ -1,5 +1,5 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! I am Ahmed</h2>
-<h2 align="center">A passionate Javacript developer</h3>
+<h2 align="center">A passionate Flutter/SwiftUI developer</h3>
 <h1 align="center">I AM 👇</h1>
 <h3 align="center">
   a random 14 y/o programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
@@ -7,17 +7,19 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
 
-- 🔭 I’m currently working on **Learning web development**
+- 🔭 I’m currently working on **Learning app development**
 
-- 🌱 I’m currently learning **React.js, Vue.js, Backend with PHP**
+- 🌱 I’m currently learning **Flutter, SwiftUI, Django**
 
 - 🌐 My website: [ahmedgagan.codes](https://ahmedgagan.codes)
 
 - 👨‍💻 All of my projects are available at [github.com/adgan11](https://github.com/aahhmmeedd-a)
 
+- 🎗️ You can support me at [https://www.buymeacoffee.com/ahmedgagan11](https://www.buymeacoffee.com/ahmedgagan11)
+
 - 📝 I write articles on [blog.ahmed-g.me/](https://blog.ahmed-g.me/)
 
-- 💬 Ask me about **React, Vue, JavaScript**
+- 💬 Ask me about **Flutter, Swift, Dart**
 
 - 📫 How to reach me **agagan057@gmail.com**
 
@@ -43,7 +45,7 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/php%20-%23404d59.svg?&style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/flutter%20-%2320232a.svg?&style=for-the-badge&logo=flutter&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white">
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
 </p>
