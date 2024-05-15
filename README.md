@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Flutter/SwiftUI developer</h3>
 <h1 align="center">I AM 👇</h1>
 <h3 align="center">
-  a random 14 y/o programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
+  a random programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
 </h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
