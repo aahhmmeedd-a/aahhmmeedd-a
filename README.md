@@ -1,11 +1,11 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! I am Ahmed</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! I am Adgan</h2>
 <h2 align="center">A passionate Flutter/SwiftUI developer</h3>
 <h1 align="center">I AM 👇</h1>
 <h3 align="center">
   a random programmer who likes to make apps, games and websites. I like to meet new people and contribute to their projects!
 </h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/ahmedgagan11?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/ahmedgagan11)
 
 - 🔭 I’m currently working on **Learning app development**
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **agagan057@gmail.com**
 
-- ⚡ Fun fact **I like coffee. And JavaScript! 😉**
+- ⚡ Fun fact **I like coffee. And JavaScript! 😉**-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -81,18 +81,18 @@
 <br />
 <br />
 
-## ▶ My Latest YouTube Videos
+<!--## ▶ My Latest YouTube Videos
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=LiFNYSmJOaI"><img width="140px" src="https://i.ytimg.com/vi/LiFNYSmJOaI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LiFNYSmJOaI">How to create a VUE js project in just 5 minutes!
+<!--<td><a href="https://www.youtube.com/watch?v=LiFNYSmJOaI">How to create a VUE js project in just 5 minutes!
 </a><br/>Jun 12, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q6_YEna0PVQ"><img width="140px" src="https://i.ytimg.com/vi/q6_YEna0PVQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q6_YEna0PVQ">Master React Native useState hooks by creating a DARK MODE LIGHT MODE APP
-</a><br/>Jun 19, 2022</td></tr>
+</a><br/>Jun 19, 2022</td></tr>-->
 <!-- YOUTUBE:END -->
   </tbody>
- <table>
+ <table>-->
       
 <!-- HASHNODE_BLOG:START -->
 <!--<p align="left">
